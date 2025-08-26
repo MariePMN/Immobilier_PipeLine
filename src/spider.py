@@ -9,6 +9,9 @@ START_URLS = [
     "https://seloger.com",
 ]
 
+#### essai
+
+
 SELECTORS = {
     # Sélecteurs CSS/XPath pour parcourir les cartes d'annonces
     "card": {
